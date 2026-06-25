@@ -1,0 +1,1 @@
+[{"date": "25-06-2026", "category": "food", "amount": 900.0}, {"date": "25-06-2026", "category": "cab", "amount": 1500.0}]
